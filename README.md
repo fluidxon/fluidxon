@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=SENSORI-OVERLOAD&color=000000)
+  ![](https://komarev.com/ghpvc/?username=atervir&color=000000)
 
 <p align="center">
     <img width="600" src="https://files.catbox.moe/rbei55.png" alt="Material Bread logo">
