@@ -5,6 +5,6 @@
     <img width="700" src="https://files.catbox.moe/i2vcf5.png" alt="Material Bread logo">
 </p>
 
-[![](https://files.catbox.moe/5p9umi.png)](https://rentry.co/atervir)
-[![](https://files.catbox.moe/310i4f.png)](https://atervir.atabook.org/)
-[![](https://files.catbox.moe/dwvfgr.png)](https://pronouns.cc/@atervir)
+[![](wrebtry)](https://rentry.co/atervir)
+[![](ata)](https://atervir.atabook.org/)
+[![](prncs)](https://pronouns.cc/@atervir)
