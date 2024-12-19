@@ -1,9 +1,11 @@
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=atervir&color=476ca6)
+  ![](https://komarev.com/ghpvc/?username=atervir&color=8c6452)
 <p align="center">
-    <img width="700" src="https://files.catbox.moe/i2vcf5.png" alt="Material Bread logo">
+    <img width="700" src="" alt="">
 </p>
+
+ooo lala wip
 
 [![](wrebtry)](https://rentry.co/atervir)
 [![](ata)](https://atervir.atabook.org/)
