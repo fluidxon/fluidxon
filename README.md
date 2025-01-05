@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=atervir&color=ad2f20)
+  ![](https://komarev.com/ghpvc/?username=atervir&color=a794b0)
 <p align="center">
-    <img width="500" src="https://files.catbox.moe/6s7sqg.gif" alt="">
+    <img width="300" src="https://files.catbox.moe/scl92o.png" alt="">
 </p>
 
 id probably still adore you with your hands around my neck
