@@ -1,6 +1,7 @@
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=atervir&color=a794b0)
+
+
+  <img src="https://komarev.com/ghpvc/?username=atervir&label= ✩ &color=a794b0&style=water">
 <p align="center">
     <img width="300" src="" alt="">
 </p>
