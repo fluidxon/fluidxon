@@ -5,7 +5,7 @@
     <img width="300" src="" alt="">
 </p>
 
-id probably still adore you with your hands around my neck
+hi i have. touch comfort c+h me i dont care
 
 [![](https://files.catbox.moe/vi3hjm.gif)](https://rentry.co/atervir-)
 [![](ata)](https://atervir.atabook.org/)
