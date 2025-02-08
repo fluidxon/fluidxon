@@ -4,8 +4,6 @@
 <p align="center">
     <img width="300" src="" alt="">
 </p>
-hi i have. touch comfort c+h me i dont care
-
 [![](https://files.catbox.moe/sm6dh3.gif)](https://rentry.co/second-time)
 [![](ata)](https://atervir.atabook.org/)
 [![](prncs)](https://pronouns.cc/@atervir)
