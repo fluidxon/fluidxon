@@ -5,6 +5,6 @@
     <img width="300" src="" alt="">
 </p>
 
-[![](https://files.catbox.moe/sm6dh3.gif)](https://rentry.co/second-time)
+[![](https://files.catbox.moe/6js11p.png)](https://rentry.co/second-time)
 [![](ata)](https://atervir.atabook.org/)
 [![](prncs)](https://pronouns.cc/@atervir)
