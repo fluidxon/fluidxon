@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=atervir&label= ✩ &color=a5142d&style=water">
+  <img src="https://komarev.com/ghpvc/?username=atervir&label= ✩ &color=bb546a&style=water">
 <p align="center">
     <img width="300" src="" alt="">
 </p>
