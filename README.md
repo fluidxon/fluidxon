@@ -3,7 +3,7 @@
 
 log 1﹕ gun to head
 
-  <img src="https://i.postimg.cc/8cWPNYC2/tumblr-42898a9e10168ecc8e054152a77b36ab-d0f65bb8-2048.jpg" width="150" height="150" align="auto"> <a href="https://guns.lol/seildirectory">
+  <a href="https://guns.lol/seildirectory"><img src="https://i.postimg.cc/8cWPNYC2/tumblr-42898a9e10168ecc8e054152a77b36ab-d0f65bb8-2048.jpg" width="250" height="auto" align="auto"></img></a>
 
 
   <img src="https://komarev.com/ghpvc/?username=atervir&label= directories &color=5d5d5d&style=water"> ![Label](https://img.shields.io/badge/upcoming-more%20links%20for%20info%20soon-6e6e6e)
