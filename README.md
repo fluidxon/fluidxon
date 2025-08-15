@@ -1,7 +1,6 @@
 <div align="center">
 
 
-log 1﹕ gun to head
 
   <a href="https://guns.lol/seildirectory"><img src="https://i.postimg.cc/8cWPNYC2/tumblr-42898a9e10168ecc8e054152a77b36ab-d0f65bb8-2048.jpg" width="250" height="auto" align="auto"></img></a>
 
