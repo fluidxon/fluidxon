@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[atabook](https://seildirect.atabook.org/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+[atabook](https://sapsarata.atabook.org/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [rentry](https://rentry.co/seildirector)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [prns](https://en.pronouns.page/@directory)ㅤㅤㅤ
 
