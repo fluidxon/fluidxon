@@ -2,7 +2,7 @@
 
 
 [atabook](https://sapsarata.atabook.org/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-[rentry](https://rentry.co/seildirector)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+[rentry](https://rentry.co/motharata)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [prns](https://en.pronouns.page/@directory)ㅤㅤㅤ
 
   
